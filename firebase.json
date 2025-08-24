@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "spotlight-9b999",
+          "appId": "1:802691344534:android:6a4ccb72857def99d8bab7",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "spotlight-9b999",
+          "configurations": {
+            "android": "1:802691344534:android:6a4ccb72857def99d8bab7"
+          }
+        }
+      }
+    }
+  },
+  "emulators": {
+    "auth": {
+      "port": 9099
+    },
+    "firestore": {
+      "port": 8080
+    },
+    "database": {
+      "port": 9000
+    },
+    "ui": {
+      "enabled": true,
+      "port": 9099
+    },
+    "singleProjectMode": true
+  }
+}

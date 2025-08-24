@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802691344534",
+    "project_id": "spotlight-9b999",
+    "storage_bucket": "spotlight-9b999.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802691344534:android:6a4ccb72857def99d8bab7",
+        "android_client_info": {
+          "package_name": "techsparkcom.example.spotlight_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkc1gO4JG1RIQbzchkvhzi715H6Xd-FVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
